@@ -1,9 +1,11 @@
 # Notas:
 
-Este es un pequeño servidor de express listo para ejecutarse y servir la carpeta public en la web.
-
-Recuerden que deben de reconstruir los módulos de node con el comando
+Reconstruir los módulos de node con el comando
 
 ```
 npm install
 ```
+
+## Aplicación en Heroku
+
+https://turnera-app.herokuapp.com/
