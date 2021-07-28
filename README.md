@@ -1,4 +1,5 @@
-# Notas:
+# Aplicación de turnos en tiempo real realizada con JavaScript
+
 
 Reconstruir los módulos de node con el comando
 
